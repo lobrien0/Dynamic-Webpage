@@ -5,10 +5,10 @@ currently the template is VERY basic, but the general sizing is laid down.
 
 ## Preview
 
-If you would like to see a preview of the template, [please click here](https://htmlpreview.github.io/https://github.com/skymotic/Dynamic-Webpage/)  
+If you would like to see a preview of the template, [please click here](https://htmlpreview.github.io/?https://github.com/skymotic/Dynamic-Webpage/blob/main/index.html)  
 
 > Or goto the following link  
-> <https://htmlpreview.github.io/https://github.com/skymotic/Dynamic-Webpage/>
+> <https://htmlpreview.github.io/?https://github.com/skymotic/Dynamic-Webpage/blob/main/index.html>
 
 ## Questions
 
