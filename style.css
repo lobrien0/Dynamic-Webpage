@@ -10,10 +10,6 @@
     --content-width: calc(100% - (var(--left-colu-width) + var(--margin-rem) * 6));
 }
 
-.devel {
-    
-}
-
 .outter-wall {
     margin: auto;
     max-width: 1400px;
